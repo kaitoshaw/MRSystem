@@ -1,0 +1,18 @@
+# Utilities
+notebook.cfg
+diss2.code-workspace
+.DS_Store
+
+# Data
+database/
+playlist_list.json
+database/dataset.csv
+database/seperateGenreOutput.csv
+anjaaay.csv
+
+# Results
+BPM Boxplot.jpg
+Corr Heatmap.jpg
+PCA Scattert.jpg
+conf matrix ori.png
+conf matrix.png
